@@ -6,6 +6,7 @@ This project is an introduction to Configuration Management, as part of the firs
 
 ## Table of contents
 |Files|	Description|
+|----|------------|
 |0-create_a_file.pp	| Puppet manifest that creates a file in the /tmp directory|
 |1-install_a_package.pp	| Puppet manifest that installs puppet-lint|
 |2-execute_a_command.pp	| Puppet manifest that kills a process named killmenow|
